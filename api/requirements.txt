@@ -1,0 +1,8 @@
+fastapi==0.68.2
+uvicorn==0.15.0
+python-jose==3.2.0
+pycryptodome
+cryptography
+jose
+requests
+PyJWT
